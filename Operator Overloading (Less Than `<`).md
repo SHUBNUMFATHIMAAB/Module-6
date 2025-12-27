@@ -25,7 +25,10 @@ To write a Python program that demonstrates **operator overloading** by overload
 ---
 
 ## 💻 Program
+<img width="525" height="395" alt="image" src="https://github.com/user-attachments/assets/3f9d2fbd-cc36-4ce6-8647-ed54f17ab032" />
 
 ## Output
+<img width="363" height="89" alt="image" src="https://github.com/user-attachments/assets/2215b392-b902-4c18-b2fc-9f2b17d9c4b9" />
 
 ## Result
+Thus the Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class is created.
